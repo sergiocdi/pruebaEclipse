@@ -6,7 +6,7 @@ public class Main {
         //Creamos dos arrays de cada tipo de objeto
         Serie listaSeries[]=new Serie[5];
         Videojuego listaVideojuegos[]=new Videojuego[5];
-  
+  //Prueba para git
         //Creamos un objeto en cada posicion del array
         listaSeries[0]=new Serie();
         listaSeries[1]=new Serie("Juego de tronos", "George R. R. Martin ");
